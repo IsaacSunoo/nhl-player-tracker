@@ -11,6 +11,7 @@ exports.up = function(knex, Promise) {
 
     knex.schema.createTable('players', function(table) {
       table.increments('id').primary();
+      table.integer('number');
       table.string('name');
       table.string('position');
       table.integer('age');

@@ -1,4 +1,4 @@
-[
+const teamsData = [
   { teamName: 'Anaheim Ducks', acronym: 'ANA', loc: 'Anaheim, CA', homeRink: 'Honda Center' },
   { teamName: 'Arizona Coyotes', acronym: 'ARI', loc: 'Glendale, AZ', homeRink: 'Gila River Arena' },
   { teamName: 'Boston Bruins', acronym: 'BOS', loc: 'Boston, MA', homeRink: 'TD Garden' },
@@ -31,3 +31,5 @@
   { teamName: 'Washington Capitals', acronym: 'WSH', loc: 'Washington, D.C.', homeRink: 'Capital One Arena' },
   { teamName: 'Winnipeg Jets', acronym: 'WPG', loc: 'Winnipeg, CDN', homeRink: 'Bell MTS Place' }
 ];
+
+module.exports = teamsData;
