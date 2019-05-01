@@ -507,6 +507,28 @@ const playersData = [
   { number: 16, name: 'Ryan Strome', position: 'C', age: 25, teamId: 19 },
   { number: 26, name: 'Jimmy Vesey', position: 'LW', age: 25, teamId: 19 },
   { number: 93, name: 'Mika Zibanejad', position: 'C', age: 25, teamId: 19 },
+  { number: 41, name: 'Craig Anderson', position: 'G', age: 37, teamId: 20 },
+  { number: 89, name: 'Mikkel Boedker', position: 'RW', age: 29, teamId: 20 },
+  { number: 74, name: 'Mark Borowiecki', position: 'D', age: 29, teamId: 20 },
+  { number: 5, name: 'Cody Ceci', position: 'D', age: 25, teamId: 20 },
+  { number: 72, name: 'Thomas Chabot', position: 'D', age: 22, teamId: 20 },
+  { number: 34, name: 'Joey Daccord', position: 'G', age: 22, teamId: 20 },
+  { number: 2, name: 'Dylan Demelo', position: 'D', age: 25, teamId: 20 },
+  { number: 10, name: 'Anthony Duclair', position: 'LW', age: 23, teamId: 20 },
+  { number: 17, name: 'Brian Gibbons', position: 'C', age: 30, teamId: 20 },
+  { number: 67, name: 'Ben Harpur', position: 'D', age: 24, teamId: 20 },
+  { number: 83, name: 'Christian Jaros', position: 'D', age: 22, teamId: 20 },
+  { number: 24, name: 'Oscar Lindberg', position: 'C', age: 27, teamId: 20 },
+  { number: 31, name: 'Anders Nilsson', position: 'G', age: 28, teamId: 20 },
+  { number: 56, name: 'Magnus Paajarvi', position: 'LW', age: 27, teamId: 20 },
+  { number: 44, name: 'Jean-Gabriel Pageau', position: 'C', age: 26, teamId: 20 },
+  { number: 9, name: 'Bobby Ryan', position: 'LW', age: 31, teamId: 20 },
+  { number: 15, name: 'Zack Smith', position: 'C', age: 30, teamId: 20 },
+  { number: 71, name: 'Chris Tierney', position: 'C', age: 24, teamId: 20 },
+  { number: 7, name: 'Brady Tkachuk', position: 'LW', age: 19, teamId: 20 },
+  { number: 14, name: 'Max Veronneau', position: 'RW', age: 23, teamId: 20 },
+  { number: 36, name: 'Colin White', position: 'C', age: 22, teamId: 20 },
+
 ];
 
 module.exports = playersData;
