@@ -9,7 +9,10 @@ const createPlayers = (knex, player) => {
       teamId: player.teamId
     },
     'id'
-  );
+  )
+    .then(playerId => {
+    console.log(playerId)
+  })
 };
 
 exports.seed = (knex, Promise) => {
