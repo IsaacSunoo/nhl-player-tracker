@@ -193,7 +193,6 @@ const playersData = [
   { number: 17, name: 'Dylan Strome', position: 'C', age: 21, teamId: 7 },
   { number: 19, name: 'Jonathan Toews', position: 'C', age: 30, teamId: 7 },
   { number: 30, name: 'Cam Ward', position: 'G', age: 34, teamId: 7 },
-
   { number: 77,name: 'Josh Anderson', position:'RW', age: 24, teamId: 9 },
   { number: 13,name: 'Cam Atkinson', position:'RW', age: 29, teamId: 9 },
   { number: 28,name: 'Oliver Bjorkstrand', position:'RW', age: 23, teamId: 9 },
@@ -221,7 +220,6 @@ const playersData = [
   { number: 42,name: 'Alexandre Texier', position:'C', age: 19, teamId: 9 },
   { number: 10,name: 'Alexander Wennberg', position:'C', age: 24, teamId: 9 },
   { number: 8, name: 'Zach Werenski', position: 'D', age: 21, teamId: 9 },
-
   { number: 44, name: 'Gavin Bayreuther', position: 'D', age:	24, teamId: 10 },
   { number: 14, name: 'Jamie Benn', position: 'LW', age:	29, teamId: 10 },
   { number: 30, name: 'Ben Bishop', position: 'G', age:	32, teamId: 10 },
@@ -255,7 +253,6 @@ const playersData = [
   { number: 91, name: 'Tyler Seguin', position: 'C', age:	27, teamId: 10 },
   { number: 90, name: 'Jason Spezza', position: 'C', age:	35, teamId: 10 },
   { number: 36, name: 'Mats Zuccarello', position: 'LW', age: 31, teamId: 10 },
-
   { number: 8, name: 'Justin Abdelkader', position: 'LW', age: 31, teamId: 11 },
   { number: 72, name: 'Andreas Athanasiou', position: 'C', age: 24, teamId: 11 },
   { number: 45, name: 'Jonathan Bernier', position: 'G', age: 30, teamId: 11 },
@@ -287,7 +284,6 @@ const playersData = [
   { number: 23, name: 'Dominic Turgeon', position: 'C', age: 22, teamId: 11 },
   { number: 26, name: 'Thomas Vanek', position: 'LW', age: 35, teamId: 11 },
   { number: 28, name: 'Luke Witkowski', position: 'D', age: 28, teamId: 11 },
-
   { number: 83, name: 'Matt Benning', positions: 'D', age: 24, teamId: 12 },
   { number: 28, name: 'Kyle Brodziak', positions: 'C', age: 34, teamId: 12 },
   { number: 12, name: 'Colby Cave', positions: 'C', age: 24, teamId: 12 },
@@ -311,7 +307,6 @@ const playersData = [
   { number: 4, name: 'Kris Russell', positions: 'D', age: 31, teamId: 12 },
   { number: 2, name: 'Andrej Sekera', positions: 'D', age: 32, teamId: 12 },
   { number: 32, name: 'Anthony Stolarz', positions: 'G', age: 25, teamId: 12 },
-
   { number: 16, name: 'Aleksander Barkov', position: 'C', age: 23, teamId: 13 },
   { number: 95, name: 'Henrik Borgstrom', position: 'C', age: 21, teamId: 13 },
   { number: 22, name: 'Troy Brouwer', position: 'RW', age: 33, teamId: 13 },
@@ -338,7 +333,6 @@ const playersData = [
   { number: 72, name: 'Frank Vatrano', position: 'LW', age: 24, teamId: 13 },
   { number: 52, name: 'MacKenzie Weegar', position: 'D', age: 25, teamId: 13 },
   { number: 3, name: 'Keith Yandle', position: 'D', age: 32, teamId: 13 },
-
   { number: 76, name: 'Jonny Brodzinski', position: 'C', age: 25, teamId: 14 },
   { number: 23, name: 'Dustin Brown', position: 'RW', age: 34, teamId: 14 },
   { number: 36, name: 'Jack Campbell', position: 'G', age: 27, teamId: 14 },
@@ -363,7 +357,6 @@ const playersData = [
   { number: 73, name: 'Tyler Toffoli', position: 'C', age: 26, teamId: 14 },
   { number: 51, name: 'Austin Wagner', position: 'LW', age: 21, teamId: 14 },
   { number: 61, name: 'Sean Walker', position: 'D', age: 24, teamId: 14 },
-
   { number: 26, name: 'Pontus Aberg', position: 'LW', age: 25, teamId: 15 },
   { number: 2, name: 'Anthony Bitetto', position: 'D', age: 28, teamId: 15 },
   { number: 25, name: 'Jonas Brodin', position: 'D', age: 25, teamId: 15 },
@@ -387,7 +380,6 @@ const playersData = [
   { number: 20, name: 'Ryan Suter', position: 'D', age: 34, teamId: 15 },
   { number: 16, name: 'Jason Zucker', position: 'LW', age: 27, teamId: 15 },
   { number: 23, name: 'J.T. Brown', position: 'RW', age: 28, teamId: 15 },
-
   { number: 40, name: 'Joel Armia', position: 'RW', age: 25, teamId: 16 },
   { number: 8, name: 'Jordie Benn', position: 'D', age: 31, teamId: 16 },
   { number: 41, name: 'Paul Byron', position: 'C', age: 29, teamId: 16 },
@@ -415,7 +407,6 @@ const playersData = [
   { number: 43, name: 'Jordan Weal', position: 'C', age: 26, teamId: 16 },
   { number: 6, name: 'Shea Weber', position: 'D', age: 33, teamId: 16 },
   { number: 22, name: 'Dale Weise', position: 'RW', age: 30, teamId: 16 },
-
   { number: 33, name: 'Viktor Arvidsson', position: 'LW', age: 25, teamId: 17 },
   { number: 13, name: 'Nick Bonino', position: 'C', age: 30, teamId: 17 },
   { number: 11, name: 'Brian Boyle', position: 'C', age: 34, teamId: 17 },
@@ -444,7 +435,6 @@ const playersData = [
   { number: 8, name: 'Kyle Turris', position: 'C', age: 29, teamId: 17 },
   { number: 51, name: 'Austin Watson', position: 'LW', age: 27, teamId: 17 },
   { number: 7, name: 'Yannick Weber', position: 'D', age: 30, teamId: 17 },
-
   { number: 17, name: 'Kenny Agostino', position: 'LW', age: 26, teamId: 18 },
   { number: 29, name: 'Mackenzie Blackwood', position: 'G', age: 22, teamId: 18 },
   { number: 63, name: 'Jesper Bratt', position: 'W', age: 20, teamId: 18 },
@@ -468,7 +458,6 @@ const playersData = [
   { number: 74, name: 'Egor Yakovlev', position: 'D', age: 27, teamId: 18 },
   { number: 37, name: 'Pavel Zacha', position: 'C', age: 21, teamId: 18 },
   { number: 19, name: 'Travis Zajac', position: 'C', age: 33, teamId: 18 },
-
   { number: 12, name: 'Josh Bailey', position: 'C', age: 29, teamId: 19 },
   { number: 13, name: 'Mathew Barzal', position: 'C', age: 21, teamId: 19 },
   { number: 18, name: 'Anthony Beauvillier', position: 'LW', age: 21, teamId: 19 },
@@ -495,7 +484,6 @@ const playersData = [
   { number: 6, name: 'Ryan Pulock', position: 'D', age: 24, teamId: 19 },
   { number: 21, name: 'Luca Sbisa', position: 'D', age: 29, teamId: 19 },
   { number: 25, name: 'Devon Toews', position: 'D', age: 24, teamId: 19 },
-
   { number: 50, name: 'Lias Andersson', position: 'C', age: 20, teamId: 20 },
   { number: 23, name: 'Connor Brickley', position: 'C', age: 26, teamId: 20 },
   { number: 89, name: 'Pavel Buchnevich', position: 'LW', age: 23, teamId: 20 },
@@ -519,7 +507,6 @@ const playersData = [
   { number: 16, name: 'Ryan Strome', position: 'C', age: 25, teamId: 20 },
   { number: 26, name: 'Jimmy Vesey', position: 'LW', age: 25, teamId: 20 },
   { number: 93, name: 'Mika Zibanejad', position: 'C', age: 25, teamId: 20 },
-
   { number: 41, name: 'Craig Anderson', position: 'G', age: 37, teamId: 21 },
   { number: 89, name: 'Mikkel Boedker', position: 'RW', age: 29, teamId: 21 },
   { number: 74, name: 'Mark Borowiecki', position: 'D', age: 29, teamId: 21 },
@@ -541,7 +528,6 @@ const playersData = [
   { number: 7, name: 'Brady Tkachuk', position: 'LW', age: 19, teamId: 21 },
   { number: 14, name: 'Max Veronneau', position: 'RW', age: 23, teamId: 21 },
   { number: 36, name: 'Colin White', position: 'C', age: 22, teamId: 21 },
-
   { number: 27, name: 'Justin Bailey', position: 'RW', age: 23, teamId: 22 },
   { number: 14, name: 'Sean Couturier', position: 'C', age: 26, teamId: 22 },
   { number: 37, name: 'Brian Elliott', position: 'G', age: 33, teamId: 22 },
@@ -566,7 +552,6 @@ const playersData = [
   { number: 44, name: 'Phil Varone', position: 'C', age: 28, teamId: 22 },
   { number: 93, name: 'Jakub Voracek', position: 'RW', age: 29, teamId: 22 },
   { number: 25, name: 'James van Riemsdyk', position: 'LW', age: 29, teamId: 22 },
-
   { number: 46, name: 'Zach Aston-Reese', position: 'C', age: 24, teamId: 23 },
   { number: 27, name: 'Nick Bjugstad', position: 'C', age: 26, teamId: 23 },
   { number: 53, name: 'Teddy Blueger', position: 'C', age: 24, teamId: 23 },
@@ -592,7 +577,6 @@ const playersData = [
   { number: 12, name: 'Dominik Simon', position: 'C', age: 24, teamId: 23 },
   { number: 5, name: 'Zach Trotman', position: 'D', age: 28, teamId: 23 },
   { number: 10, name: 'Garrett Wilson', position: 'LW', age: 27, teamId: 23 },
-
   { number: 61, name: 'Justin Braun', position: 'D', number: 31, teamId: 24 },
   { number: 88, name: 'Brent Burns', position: 'D', number: 33, teamId: 24 },
   { number: 39, name: 'Logan Couture', position: 'C', number: 29, teamId: 24 },
@@ -620,7 +604,6 @@ const playersData = [
   { number: 40, name: 'Antti Suomela', position: 'C', number: 24, teamId: 24 },
   { number: 19, name: 'Joe Thornton', position: 'C', number: 39, teamId: 24 },
   { number: 44, name: 'Marc-Edouard Vlasic', position: 'D', age: 31, teamId: 24 },
-
   { number: 34, name: 'Jake Allen', position: 'G', age: 28, teamId: 25 },
   { number: 49, name: 'Ivan Barbashev', position: 'C', age: 23, teamId: 25 },
   { number: 50, name: 'Jordan Binnington', position: 'G', age: 25, teamId: 25 },
@@ -647,7 +630,6 @@ const playersData = [
   { number: 91, name: 'Vladimir Tarasenko', position: 'RW', age: 27, teamId: 25 },
   { number: 18, name: 'Robert Thomas', position: 'C', age: 19, teamId: 25 },
   { number: 22, name: 'Chris Thorburn', position: 'RW', age: 35, teamId: 25 },
-
   { number: 24, name: 'Ryan Callahan', position: 'RW', age: 33, teamId: 26 },
   { number: 81, name: 'Erik Cernak', position: 'D', age: 21, teamId: 26 },
   { number: 71, name: 'Anthony Cirelli', position: 'C', age: 21, teamId: 26 },
@@ -672,7 +654,6 @@ const playersData = [
   { number: 91, name: 'Steven Stamkos', position: 'C', age: 28, teamId: 26 },
   { number: 6, name: 'Anton Stralman', position: 'D', age: 32, teamId: 26 },
   { number: 88, name: 'Andrei Vasilevskiy', position: 'G', age: 24, teamId: 26 },
-
   { number: 31, name: 'Frederik Andersen', position: 'G', age: 29, teamId: 27 },
   { number: 28, name: 'Connor Brown', position: 'RW', age: 25, teamId: 27 },
   { number: 23, name: 'Travis Dermott', position: 'D', age: 22, teamId: 27 },
@@ -697,7 +678,6 @@ const playersData = [
   { number: 40, name: 'Garret Sparks', position: 'G', age: 25, teamId: 27 },
   { number: 91, name: 'John Tavares', position: 'C', age: 28, teamId: 27 },
   { number: 22, name: 'Nikita Zaitsev', position: 'D', age: 27, teamId: 27 },
-
   { number: 47, name: 'Sven Baertschi', position: 'LW', age:	26, teamId: 28 },
   { number: 83, name: 'Jay Beagle', position: 'RW', age:	33, teamId: 28 },
   { number: 55, name: 'Alex Biega', position: 'D', age:	30, teamId: 28 },
@@ -729,7 +709,6 @@ const playersData = [
   { number: 8, name: 'Christopher Tanev', position: 'D', age:	29, teamId: 28 },
   { number: 4, name: 'Josh Teves', position: 'D', age:	23, teamId: 28 },
   { number: 18, name: 'Jake Virtanen', position: 'RW', age: 22, teamId: 28 },
-
   { number: 41, name: 'Pierre-Edouard Bellemare', position: 'LW', age: 33, teamId: 29 },
   { number: 29, name: 'Marc-Andre Fleury', position: 'G', age: 34, teamId: 29 },
   { number: 40, name: 'Ryan Carpenter', position: 'C', age: 28, teamId: 29 },
@@ -756,7 +735,6 @@ const playersData = [
   { number: 27, name: 'Shea Theodore', position: 'D', age: 23, teamId: 29 },
   { number: 89, name: 'Alex Tuch', position: 'RW', age: 22, teamId: 29 },
   { number: 7, name: 'Valentin Zykov', position: 'LW', age: 23, teamId: 29 },
-
   { number: 19, name: 'Nicklas Backstrom', position: 'C', age: 31, teamId: 30 },
   { number: 72, name: 'Travis Boyd', position: 'C', age: 25, teamId: 30 },
   { number: 65, name: 'Andre Burakovsky', position: 'LW', age: 23, teamId: 30 },
@@ -782,7 +760,6 @@ const playersData = [
   { number: 18, name: 'Chandler Stephenson', position: 'C', age: 24, teamId: 30 },
   { number: 13, name: 'Jakub Vrana', position: 'LW', age: 22, teamId: 30 },
   { number: 43, name: 'Tom Wilson', position: 'RW', age: 24, teamId: 30 },
-
   { number: 88, name: 'Nathan Beaulieu', position: 'D', age: 26, teamId: 31 },
   { number: 30, name: 'Laurent Brossoit', position: 'G', age: 25, teamId: 31 },
   { number: 33, name: 'Dustin Byfuglien', position: 'D', age: 33, teamId: 31 },
