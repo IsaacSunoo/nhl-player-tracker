@@ -3,9 +3,9 @@ const createTeam = (knex, team) => {
   return knex('teams')
     .insert(
       {
-        teamName: team.team_name,
+        team_name: team.team_name,
         location: team.location,
-        homeRink: team.home_rink
+        home_rink: team.home_rink
       },
       'id'
     )

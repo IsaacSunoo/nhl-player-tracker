@@ -1,18 +1,16 @@
 const playersData = require('../../playersData');
 const createPlayers = (knex, player) => {
+  console.log('knex: ', knex, 'player: ', player);
   return knex('players').insert(
     {
       number: player.number,
       name: player.name,
       position: player.position,
       age: player.age,
-      teamId: player.teamId
+      team_id: player.team_id
     },
     'id'
   )
-    .then(playerId => {
-    console.log(playerId)
-  })
 };
 
 exports.seed = (knex, Promise) => {
